@@ -353,9 +353,9 @@ header .search{
 .sem2{
 
     float: right;
-    right: 350px;
-    margin-top: 50px;
-    position: relative;
+    right: 43vh;
+    margin-top: 60vh;
+    position: absolute;
     font-size: 50px;
     color: #DBD8D8;
 
@@ -364,7 +364,8 @@ header .search{
 .codigo{
 
     float: right;
-    margin-top: 30px;
+    margin-top: 57vh;
+    left: 50vh;
     position: relative;
     color: #DBD8D8;
 
@@ -380,11 +381,11 @@ header .search{
 
 .apresenta{
 
-    width: 550px;
+    width: 70vh;
     height: 250px;
     border-radius: 20px;
     margin-top: 150px ;
-    margin-left: 700px;
+    margin-left: 110vh;
     background-color: rgba(2,0,36,1);
     z-index: 0;
 
@@ -405,7 +406,7 @@ header .search{
 
     position: absolute;
     margin-top: 125px ;
-    margin-left: 750px;
+    margin-left: 115vh;
     height: 250px;
     width:550px;
     background-color: black;
